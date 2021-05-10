@@ -1,0 +1,12 @@
+@import url(//db.onlinewebfonts.com/c/f4d1593471d222ddebd973210265762a?family=Pokemon);
+
+.my-header {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: fit-content;
+    font-size: 30px;
+    background-image: linear-gradient(#f5f5f5, #d4cb78);
+    font-family: Pokemon;
+    color: #212121;
+}

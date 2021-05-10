@@ -1,0 +1,12 @@
+.my-button {
+    width: fit-content;
+    background-color: #729F40;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.my-button:hover {
+    background-color: rgb(141, 190, 85);
+}

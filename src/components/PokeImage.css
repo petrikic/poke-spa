@@ -1,0 +1,10 @@
+.poke-image {
+    background-color: #ddf;
+    border-radius: 5%;
+    padding: 10%;
+}
+
+.poke-image img{
+    height: 100%;
+    width: 100%;
+}

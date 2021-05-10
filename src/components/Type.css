@@ -1,0 +1,90 @@
+.poke-type {
+    display: flex;
+    justify-content: center;
+    border-radius: 0.8vh;
+    text-align: center;
+    background-color: #A4ADAF;
+    color: #212121;
+}
+
+.poke-type>span {
+    margin: 2px;
+    font-size: 11px;
+}
+
+.Grass {
+    background-color: #73A040;
+}
+
+.Dark {
+    background-color: #707070;
+    color: white;
+}
+
+.Electric {
+    background-color: #EED535;
+}
+
+.Fighthing {
+    background-color: #D56723;
+    color: white;
+}
+
+.Ice {
+    background-color: #51C4E7;
+}
+
+.Poison {
+    background-color: #B97FC9;
+    color: white;
+}
+
+.Rock {
+    background-color: #A38C21;
+    color: white;
+}
+
+.Water {
+    background-color: #4592C4;
+    color: white;
+}
+
+.Bug {
+    background-color: #729F40;
+    color: white;
+}
+
+.Dragon {
+    background-image: linear-gradient(#53A4CF 50%, #F26F58 50%);
+}
+
+.Fairy {
+    background-color: #FEBAEA;
+}
+
+.Fire {
+    background-color: #FD7D24;
+    color: white;
+}
+
+.Ghost {
+    background-color: #7B62A3;
+    color: white;
+}
+
+.Ground {
+    background-image: linear-gradient(#F7DE3F 50%, #AB9842 50%);
+}
+
+.Psychic {
+    background-color: #F366B9;
+    color: white;
+}
+
+.Steel {
+    background-color: #9EB7B8;
+}
+
+.Flying {
+    background-image: linear-gradient(#3DC7EF 50%, #BDB9B8 50%);
+}

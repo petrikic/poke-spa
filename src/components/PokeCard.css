@@ -1,0 +1,22 @@
+.poke-card {
+    cursor: pointer;
+}
+
+.poke-info {
+    margin: 2%;
+}
+
+.poke-info > span {
+    color: #919191;
+}
+
+.poke-card h5 {
+    margin: 0;
+    font-size: 20px;
+    color: #313131;
+}
+
+.poke-card:hover {
+    transform: translateY(-10px);
+    transition:all .2s ease-in-out
+}
